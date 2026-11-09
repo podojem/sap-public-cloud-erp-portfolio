@@ -1,68 +1,99 @@
 ---
 title: 김태영 | SAP Public Cloud ERP 포트폴리오
-description: SAP Public Cloud ERP 구축 방법론과 업무 경험을 정리한 포트폴리오
+description: 김태영의 SAP 개발 및 운영 경력, 프로젝트, 교육 이력, 자격증
 ---
 
-# 소개
+# 김태영
 
-SAP S/4HANA Cloud Public Edition 구축과 운영에 필요한 프로세스, 프로젝트 접근 방식, 주요 산출물을 정리합니다. 표준 기능 검토에서 운영전환까지 이어지는 흐름을 중심으로 구성했습니다.
-
----
+2000년 08월 12일 · 만 26세 · 남자  
+전화: [010-5530-7438](tel:010-5530-7438) · 이메일: [kty.4340@gmail.com](mailto:kty.4340@gmail.com)
 
 ## 기술 스택
 
-| 영역 | 정리 주제 |
-| --- | --- |
-| SAP Cloud ERP | 제품 및 업무 모듈, 주요 프로세스 |
-| 개발 | 언어, 프레임워크, UI 및 데이터 모델 |
-| 플랫폼 및 확장 | BTP, 확장 방식, 연계 기술 |
-| 구축 방법론 | SAP Activate, Fit-to-Standard, 테스트, 컷오버 |
+| 기술 | 경력 |
+| --- | ---: |
+| Total SAP | 6년 |
+| ABAP | 6년 |
+| RAP | 2년 |
+| Fiori | 1년 |
 
 ## 학력
 
-| 구분 | 학교 및 전공 | 재학 기간 |
-| --- | --- | --- |
-| 대학교 | 학교·전공 정보 추가 | 기간 추가 |
-| 고등학교 | 필요 시 추가 | 기간 추가 |
+| 구분 | 학교 | 지역 | 기간 | 상태 및 성적 |
+| --- | --- | --- | --- | --- |
+| 고등학교 | 보문고등학교 | 대전 | 2016.03–2019.02 | 졸업 |
+| 대학교 | 건양대학교 | 충청남도 | 2019.03–2025.12 | 졸업 · 3.4/4.5 |
 
 ## 경력
 
-### 회사 및 역할
+### GS ITM
 
-회사명 · 재직 기간 · 담당 역할을 공개 가능한 범위에서 정리합니다.
+**2026.01–현재**
 
-- 담당 모듈과 업무 범위
-- 운영·개발 책임 및 협업 범위
-- 개선 과제와 확인 가능한 결과
+- SAP BTP 개발 · 2026.01–2026.06
+- SAP 운영팀 FI 모듈 운영 · 2026.06–현재
+
+### 삼양데이타시스템
+
+**2025.07–2025.12**
+
+- SAP PCE SD 모듈 운영 · 2025.07–2025.12
 
 ## 프로젝트
 
-### SAP Public Cloud ERP 구축 방법론
+### SD 프로세스 고도화
 
-표준 프로세스를 우선 검토하고, 요구사항과 갭을 근거에 따라 결정하며, 배포와 운영전환까지 연결하는 접근을 정리합니다.
+**기술:** ABAP · ALV · ABAP OOP · Function Group · Number Range
 
-| 단계 | 주요 활동 | 산출물 예시 |
-| --- | --- | --- |
-| Discover · 탐색 | 목표, 범위, 성공 기준 정리 | 범위 초안, 이해관계자 목록 |
-| Prepare · 준비 | 거버넌스, 일정, 환경, 전략 수립 | 프로젝트 계획, 관리 체계 |
-| Explore · 설계 | Fit-to-Standard, 요구사항·갭 검토 | 프로세스 설계, 결정 기록 |
-| Realize · 구현 | 설정, 확장, 통합, 데이터 검증 | 설정 문서, 테스트 결과 |
-| Deploy · 배포 | 인수 테스트, 컷오버, 사용자 준비 | 컷오버 계획, Go/No-Go 기준 |
-| Run · 운영 | 초기 안정화, 지원, 지속 개선 | 운영 지표, 개선 목록 |
+### (주)GS SAP Public Cloud ERP 구축
 
-### 프로젝트 사례
-
-프로젝트별로 목적, 범위, 담당 역할, 적용 기술, 확인 가능한 결과를 정리합니다. 고객사 및 내부 정보는 공개 가능한 범위에서만 기재합니다.
+**기술:** RAP · BTP · UI5 · Joule · In-App · CDS · Codex AI
 
 ## 교육 이력
 
-| 교육 과정 | 교육 기관 | 기간 및 주요 학습 |
-| --- | --- | --- |
-| SAP Cloud ERP 프로세스·구축 교육 | 기관명 추가 | 기간 및 학습 내용 추가 |
-| SAP 개발 교육 | 기관명 추가 | 기간 및 학습 내용 추가 |
+### 건양대학교 SAP 전공 교육과정
+
+**건양대학교 · 2019.08–2024.12**
+
+- ABAP Screen, Dictionary, Report, OOP
+- SAP ERP FI/MM/SD
+- SAP HANA 및 CDS
+- SAP Capstone Design 프로젝트
+
+### SAP PCE 및 Public Cloud Fiori App 개발 교육
+
+**리디안솔루션 · 2024.08–2024.12 · 총 4개월**
+
+- SAP Cloud ERP 전반
+- RAP 기반 Fiori App 개발
+
+### SAP Public Cloud ERP FI 프로세스 교육
+
+**SAP Korea · 2026.08.19, 2026.08.16, 2026.09.02 · 3일 / 8시간(총 24시간)**
+
+- E2E 프로세스 및 결산
+- FI 운영에 필요한 프로그램과 태스크
+
+### SAP Cloud ERP - GLX (Go Live Experience) Workshop
+
+**SAP Korea · 2026.10.27, 2026.10.28 · 2일 / 8시간(총 16시간)**
+
+- CBC/ALM 실습
+- Public Cloud ERP Go-Live 역량
 
 ## 자격증
 
 | 자격증 | 취득일 | 등급 |
 | --- | --- | --- |
-| 자격증명 추가 | 날짜 추가 | 등급 추가 |
+| SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50 | 2022-12-22 | Associate |
+| SAP Certified Associate - Back-End Developer - ABAP Cloud | 2025-02-01 | Associate |
+| SAP Certified - Implementation Consultant - SAP S/4HANA Cloud Public Edition - Financial Accounting | 2026-09-03 | Intermadiate |
+
+## 노션 자료
+
+- 자료정리
+- SAP 자료
+
+---
+
+[이메일로 연락하기](mailto:kty.4340@gmail.com)
